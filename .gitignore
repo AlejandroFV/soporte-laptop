@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Archivos temporales de OpenSCAD / Slicers
+_tmp_*.scad
+*.bak
+*.csg
